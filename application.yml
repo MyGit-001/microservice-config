@@ -1,6 +1,7 @@
+pring:
   application:
-    name: defaultService
-  eureka:
+    name: DEFAULT-sERVICE
+eureka:
   instance:
     prefer-ip-address: true
   client:
