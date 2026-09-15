@@ -1,6 +1,6 @@
   application:
     name: defaultService
- eureka:
+  eureka:
   instance:
     prefer-ip-address: true
   client:
